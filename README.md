@@ -26,7 +26,7 @@ This project is useful for:
 🧑‍💼 Recruiters reviewing candidates
 🌐 Anyone who wants quick access to GitHub data
 📦 Installation & Setup
-git clone https://github.com/your-username/GithubProfileViewer.git
+git clone https://github.com/ashwanisah12/GithubProfileViewer.git
 cd GithubProfileViewer
 npm install
 npm start
