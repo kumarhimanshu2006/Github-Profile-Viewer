@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "author": "",
   "license": "ISC",
@@ -11,8 +12,5 @@
     "parcel": "^2.16.4",
     "react": "^19.2.5",
     "react-dom": "^19.2.5"
-  },
-  "devDependencies": {
-    "@parcel/rust-win32-x64-msvc": "^2.16.4"
   }
 }
